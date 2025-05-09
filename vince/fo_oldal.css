@@ -1,0 +1,22 @@
+body {
+    background-image:url("../kepek/hatterkep.jpg");
+    background-size: 100%;
+}
+section {
+text-align: center;
+padding: 50px;
+font-size: 36px;
+font-family:'Courier New', Courier, monospace;
+font-style: italic;
+font-weight: bolder;
+text-transform: uppercase;
+
+}
+section a:hover {
+color:cornsilk;
+
+}
+section a {
+color:lightgray;
+text-decoration: none;
+}
